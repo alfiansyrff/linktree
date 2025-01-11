@@ -1,0 +1,42 @@
+{
+  "name": "M. Nur Alfian Syarif",
+  "avatar": "/profil.jpg",
+  "links": [
+    {
+      "href": "#",
+      "title": "Tentang",
+      "icon": "InformationCircleIcon",
+      "image": "information.svg"
+    },
+    {
+      "href": "https://portfolio-asahterus-projects.vercel.app",
+      "title": "Portfolio",
+      "image": "profile.svg"
+    },
+    {
+      "href": "https://example.com/projects",
+      "title": "Telegram",
+      "image": "telegram.svg"
+    },
+    {
+      "href": "https://www.instagram.com/alfiansyrff/",
+      "title": "Instagram",
+      "image": "instagram.svg"
+    },
+    {
+      "href": "https://linkedin.com/in/muhammad-nur-alfian-syarif",
+      "title": "LinkedIn",
+      "image": "linkedin.svg"
+    },
+    {
+      "href": "https://asahclass.com",
+      "title": "Asah Class",
+      "image": "briefcase.svg"
+    },
+    {
+      "href": "https://instagram.com/asahkoding",
+      "title": "Asah Koding",
+      "image": "briefcase.svg"
+    }
+  ]
+}
